@@ -25,7 +25,7 @@ print(
             **                  Channel : @researcher_of_islam                **
             **                       Developers : Writer                      **
             **                     Team Members : Just me                     **
-            **                  Thank's : .:: TopLearn.com ::.                **
+            **         Thank's : .:: https://github.com/masoodsh77 ::.        **
             ===========━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━============
          ╰──
                                               """)
